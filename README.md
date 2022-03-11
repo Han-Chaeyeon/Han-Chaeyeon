@@ -1,5 +1,5 @@
 ![Chaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Han-Chaeyeon&show_icons=true&theme=dracula)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=imi21123)](https://solved.ac/imi21123)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imi21123)](https://solved.ac/imi21123)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Han-Chaeyeon&layout=compact&theme=dracula)
 
 <!--
