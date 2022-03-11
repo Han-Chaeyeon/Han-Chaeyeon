@@ -1,4 +1,6 @@
-### Hi there 👋
+![Chaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dracula)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v1/generate_badge?boj=imi21123)](https://solved.ac/imi21123)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Han-Chaeyeon&layout=compact&theme=dracula)
 
 <!--
 **Han-Chaeyeon/Han-Chaeyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
